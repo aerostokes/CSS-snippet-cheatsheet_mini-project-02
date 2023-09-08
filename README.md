@@ -1,3 +1,3 @@
-# 02-28-CSS-cheatsheet
+# Module 02 Mini-Project: CSS Snippet Cheat Sheet
 
-https://aerostokes.github.io/02-28-CSS-cheatsheet/
+https://aerostokes.github.io/CSS-snippet-cheatsheet_mini-project-02/
